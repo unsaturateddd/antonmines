@@ -110,7 +110,7 @@ body {
     position: relative;
     z-index: 4;
     width: min(320px, 90vw);
-    margin: 60px auto;
+    margin: 20px auto;
   }
   
   .status-bar__select-traps {
